@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- -->
+<div align="center">
+  <h4>Main Stack</h4>  
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
 
 <!--
 **hyungil2da/hyungil2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
