@@ -27,12 +27,9 @@
 - **Mapdical - 스마트앱프로젝트 경진대회** | 동양미래대학교 | 2024.09 ~ 2024.12 | 팀장 | 🏆 **우수상**
 - **동양미래대학교 2023 코딩 콘테스트** | 2023.12 | 🏆 **우수상**
 
-## Open Source Contribution
-- **spring-data-jpa** | Remove unnecessary semicolons DefaultRevisionMetadataUnitTests class | [PR Link](https://github.com/spring-projects/spring-data-jpa/pull/3670)
-
 <br><br>
 <p align="center">
-<Strong>Email 📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>Email 📧</Strong><br>gusrlf9598@gmail.com<br>
 </p>
 
 <br>
@@ -67,20 +64,4 @@
 </p>
 
 <br>
--->
-
-
-<!--
-**hyungil2da/hyungil2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
