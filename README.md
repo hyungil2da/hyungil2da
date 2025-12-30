@@ -15,6 +15,37 @@
 ## Activity
 - **우아한테크코스 - 웹 백엔드** | 6기 | 2024.02 ~ 2024.11 | 백엔드 | [활동 기록](https://github.com/PgmJun/woowa-history) 
 - **SOPT - 대학생연합 IT벤처창업 동아리** | 32, 33기 | 2023.04 ~ 2024.01 | 백엔드 | [활동 회고](https://pgmjun.tistory.com/132) 
+- **MARS - 동양미래대학교 대학 컴퓨터공학부 전공동아리** | 21기 | 2025.03 ~ 2025.12 | 회장 
+- **MARS - IT 사이드 프로젝트 연합 동아리 - | 6기 | 2022.01 ~ 2022.03 | 백엔드 | [활동 회고](https://pgmjun.tistory.com/46) 
+- **MARS - 동양미래대학교 대학 컴퓨터공학부 전공동아리** | 20기 | 2025.03 ~ 2025.12 | 학술부장 
+- **영남이공대학교 - 미래신산업수요특화형 AI교육** | 2024.07.01 ~ 2017.07.05 | [활동 회고](https://pgmjun.tistory.com/46)
+
+## Competition
+- **UNITHON - IT 해커톤** | 8기 | 2022.03 | [활동 회고](https://pgmjun.tistory.com/50)
+- **2022 서울시 IoT 공공 데이터 해커톤** | 1기 | 2022.08 | 🏆 우수상(서울특별시장상) | [활동 회고](https://pgmjun.tistory.com/78)
+- **솝커톤(Sopkerthon) - IT 동아리 SOPT 단기 해커톤** | 32기 | 2023.05 | 🏆 대상(앱 부문) | [활동 회고](https://pgmjun.tistory.com/121)
+- **Mindsapce - 2025 동양미래EXPO** | 2023.07 ~ 2023.08 | 팀장 | 🏆 장려상 (MindSpace - KES 2025 한국전자전 출품작) | [Github Repository](https://github.com/Team-LionHeart/LionHeart-Server)
+- **Mapdical - 동야미래대학교 스마트앱프로젝트 경진대회** | 2024.09 ~ 2024.12| 팀장 | 🏆 우수상 | 
+- **동양미래대학교 생성형 AI를 활용한 문제해결 해커톤** | 2025.02 | 팀장 | 🏆 장려상
+- **동양미래대학교 2023 코딩 콘테스트** | 2023.12 | 🏆 우수상
+
+## Open Source Contribution
+- **spring-data-jpa** | Remove unnecessary semicolons DefaultRevisionMetadataUnitTests class | [PR Link](https://github.com/spring-projects/spring-data-jpa/pull/3670)
+
+<br><br>
+<p align="center">
+<Strong>Email 📧</Strong><br>chltmdwns96@gmail.com<br>
+</p>
+
+<br>
+
+<!--
+## Work
+- **토스뱅크 Server Developer** | 2025.01 ~
+
+## Activity
+- **우아한테크코스 - 웹 백엔드** | 6기 | 2024.02 ~ 2024.11 | 백엔드 | [활동 기록](https://github.com/PgmJun/woowa-history) 
+- **SOPT - 대학생연합 IT벤처창업 동아리** | 32, 33기 | 2023.04 ~ 2024.01 | 백엔드 | [활동 회고](https://pgmjun.tistory.com/132) 
 - **다솜 - 동양미래대학교 대학 컴퓨터공학부 전공동아리** | 32기 | 2023.03 ~ 2023.06 | 회장 
 - **DND - IT 사이드 프로젝트 연합 동아리** | 6기 | 2022.01 ~ 2022.03 | 백엔드 | [활동 회고](https://pgmjun.tistory.com/46) 
 - **다솜 - 동양미래대학교 대학 컴퓨터공학부 전공동아리** | 28기 | 2019.03 ~ 2019.12 | 학술부장 
@@ -38,6 +69,8 @@
 </p>
 
 <br>
+-->
+
 
 <!--
 **hyungil2da/hyungil2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
