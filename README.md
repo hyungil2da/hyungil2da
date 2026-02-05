@@ -20,11 +20,11 @@
 
 ## Competition
 - **전국 창의코딩 대회** | 주최기관 | 2025.12.29 | 🏆 동상
-- **Trego - 2025학년도 스마트 ICT 프로젝트 경진대회** | 2025.04 ~ 2025.11 | 팀장 | 🏆 최우수상(1등) | [GitHub](링크)
-- **MindSpace - 2025 동양미래EXPO** | 2025.06 ~ 2025.10 | Backend | 🏆 장려상 (KES 2025 한국전자전 출품작) | [GitHub](링크)
+- **Trego - 2025학년도 스마트 ICT 프로젝트 경진대회** | 2025.04 ~ 2025.11 | 팀장 | 🏆 최우수상(1등) | [GitHub](https://github.com/The-Princess-Teatime/trego-backend)
+- **MindSpace - 2025 동양미래EXPO** | 2025.06 ~ 2025.10 | Backend | 🏆 장려상 (KES 2025 한국전자전 출품작) | [GitHub](https://github.com/hyungil2da/mindspace-app)
 - **동양미래대학교 생성형 AI를 활용한 문제해결 해커톤** | 2025.02 | 팀장 | 🏆 장려상
 - **전국 창의코딩 대회** | 주최기관 | 2024.12.27 | 🏆 입상
-- **Mapdical - 스마트앱프로젝트 경진대회** | 2024.09 ~ 2024.12 | 팀장 | 🏆 우수상 | [GitHub](링크_있다면)
+- **Mapdical - 스마트앱프로젝트 경진대회** | 2024.09 ~ 2024.12 | 팀장 | 🏆 우수상 | [GitHub](https://github.com/hyungil2da/OpenAiClient)
 - **동양미래대학교 2023 코딩 콘테스트** | 2023.12 | 🏆 우수상
 
 <br><br>
